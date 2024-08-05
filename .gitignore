@@ -1,0 +1,6 @@
+Models/yolo_models/*
+!Models/yolo_models/.gitkeep
+
+Input_videos/*
+!Input_videos/.gitkeep
+runs/
