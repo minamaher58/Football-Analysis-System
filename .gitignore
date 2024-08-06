@@ -4,3 +4,6 @@ Models/yolo_models/*
 Input_videos/*
 !Input_videos/.gitkeep
 runs/
+
+training/football-players-detection-1
+!training/football-players-detection-1/.gitkeep
