@@ -1,5 +1,8 @@
-Models/yolo_models/*
-!Models/yolo_models/.gitkeep
+Models/yolov8/*
+!Models/yolov8/.gitkeep
+
+Models/*
+!Models/.gitkeep
 
 Input_videos/*
 !Input_videos/.gitkeep
