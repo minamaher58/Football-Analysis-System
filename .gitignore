@@ -10,3 +10,6 @@ runs/
 
 training/football-players-detection-1
 !training/football-players-detection-1/.gitkeep
+
+output_videos/*
+!output_videos/.gitkeep
